@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> This repository contains a *deprecated Kotlin prototype* of our spreadsheet CRDT based on an *operation-based* design. We have since *abandoned this approach* and reimplemented the project in *Scala using a delta-state CRDT*. All further development happens in the [Bismuth monorepo](https://github.com/stg-tud/Bismuth/tree/main/Modules/Tabular) which combines all projects related to distributed systems programming done at STG at TU Darmstadt.
+> This repository contains a **deprecated Kotlin prototype** of our spreadsheet CRDT based on an **operation-based** design. We have since **abandoned this approach** and reimplemented the project in **Scala using a delta-state CRDT**. All further development happens in the [Bismuth monorepo](https://github.com/stg-tud/Bismuth/tree/main/Modules/Tabular) which combines all projects related to distributed systems programming done at STG at TU Darmstadt.
 > For now, this repository will stay as is and the old readme is kept below.
 
 # Spreadsheet CRDT
